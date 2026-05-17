@@ -38,3 +38,4 @@ uvicorn app.main:app --reload
 
 ### 5. Run frontend
 streamlit run streamlit_app.py
+
